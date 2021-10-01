@@ -40,7 +40,7 @@ In the bare workflow the developer has complete control, along with the complexi
 | Use Expo's over the air updates features                     | ✅               | ✅                                                                 |
 | Develop with the Expo Go app                                 | ✅               | ✅ (if you follow [these guidlines](../bare/using-expo-client.md)) |
 | Access to Expo SDK                                           | ✅               | ✅                                                                 |
-| Add custom native code and manage native dependencies        |                  | ✅                                                                 |
+| Add custom native code and manage native dependencies        | ✅                 | ✅                                                               |
 | Develop in Xcode and Android Studio                          |                  | ✅                                                                 |
 
 ## Which workflow is right for me?
